@@ -1,6 +1,4 @@
-- 👋 Olá eu sou o  @MarvinXavier16, Estudante de Engenharia de Software e Desenvolvedor C#
-- 📘 Atualmente, tenho me focado no aprendizado da linguagem C#, incluindo seus Frameworks (.Net, AspNet, MAUI,etc.).
-- 👔 Sou um dos Fundadores da Ohana Software, mas estou em busca de uma oportunidade de Trabalho para poder contribuir com as empresas na geração de soluções. 
+- 👋 Olá eu sou o  @MarvinXavier16,  um entusiasta da Análise de Dados, dedicado a transformar dados brutos em insights estratégicos. Atualmente, estou me aprofundando em ferramentas e técnicas de análise para capacitar empresas a tomar decisões baseadas em dados.
 
 <div align="left"> 
   <a href="https://github.com/MarvinXavier16">
